@@ -1,0 +1,527 @@
+﻿daunted_client.passthrough=%s
+daunted_client.slider.percent=%s%%
+daunted_client.slider.factor=%sx
+daunted_client.slider.seconds=%ss
+
+
+daunted_client.vertical_alignment.top=Parte Más Alta
+daunted_client.vertical_alignment.middle=Centro
+daunted_client.vertical_alignment.bottom=Parte Más Abaja
+
+
+daunted_client.perspective.first_person=Primera Person
+daunted_client.perspective.third_person_back=Tercera Persona Detras
+daunted_client.perspective.third_person_front=Tercera Person Frente
+
+
+daunted_client.easing.linear=Lineal
+daunted_client.easing.quad=Cuadrático
+daunted_client.easing.cubic=Cúbico
+daunted_client.easing.quart=Cúartico
+daunted_client.easing.quint=Qúintico
+daunted_client.easing.expo=Exponencial
+daunted_client.easing.sine=Seno
+daunted_client.easing.circ=Circular
+daunted_client.easing.back=Reverso
+daunted_client.easing.bounce=Rebote
+daunted_client.easing.elastic=Elástico
+
+
+daunted_client.file.edit=Editar Archivo...
+
+
+daunted_client.servers=Servidores
+
+
+daunted_client.key.category=Daunted Client
+daunted_client.key.accept_request=Aceptar Petición
+daunted_client.key.dismiss_request=Descartar Petición
+
+
+daunted_client.mod.generic.option.enabled=Activado
+daunted_client.mod.hud.option.scale=Escala
+daunted_client.mod.simple_hud.option.background=Fondo
+daunted_client.mod.simple_hud.option.backgroundColour=Color Del Fondo
+daunted_client.mod.simple_hud.option.border=Borde
+daunted_client.mod.simple_hud.option.borderColour=Color Del Borde
+daunted_client.mod.simple_hud.option.textColour=Color Del Texto
+daunted_client.mod.simple_hud.option.shadow=Sombra Del Texto
+
+
+daunted_client.mod.daunted_client.name=Daunted Client
+daunted_client.mod.daunted_client.description=Escenarios generales para Daunted Client.
+
+
+
+
+daunted_client.mod.daunted_client.option.fancyMainMenu=Menú Principal
+daunted_client.mod.daunted_client.option.logoInInventory=Enseñar Logotipo En El Inventario
+daunted_client.mod.daunted_client.mods=Módulos
+daunted_client.mod.daunted_client.option.modsKey=Clave De Módulos
+daunted_client.mod.daunted_client.edit_hud=Editar Monitor
+daunted_client.mod.daunted_client.option.editHudKey=Tecla De Editar Monitor
+daunted_client.mod.daunted_client.option.uiColour=Color Acento
+daunted_client.mod.daunted_client.option.smoothUIColours=Suavizar Colores De Interfaz De Usuario
+daunted_client.mod.daunted_client.option.roundedUI=Interfaz De Usuario Redondeado
+daunted_client.mod.daunted_client.option.buttonClicks=Clices De Botón
+daunted_client.mod.daunted_client.option.smoothScrolling=Desplazamiento suave
+daunted_client.mod.daunted_client.option.fancyFont=Tipografía de alta definición
+
+
+daunted_client.mod.fps.name=FPS
+daunted_client.mod.fps.description=Mostrar las FPS (fotogramas por segundo).
+
+
+daunted_client.mod.coordinates.name=Coordenadas
+daunted_client.mod.coordinates.description=Mostrar tus coordenadas.
+
+
+daunted_client.mod.coordinates.option.axisLabelColour=Color De Eje Etiqueta
+daunted_client.mod.coordinates.option.axisValueColour=Color De Eje Valor
+daunted_client.mod.coordinates.option.cardinalDirection=Dirección Cardinal
+daunted_client.mod.coordinates.option.cardinalDirectionColour=Color De Dirreción Cardinal
+daunted_client.mod.coordinates.option.axisDirection=Dirreción De Eje
+daunted_client.mod.coordinates.option.axisDirectionColour=Color De Dirreción De Eje
+
+
+daunted_client.mod.keystrokes.name=Pulsaciónes
+daunted_client.mod.keystrokes.description=Mostrar teclas presionadas.
+
+
+daunted_client.mod.keystrokes.option.movement=Movimiento
+daunted_client.mod.keystrokes.option.mouse=Ratón
+daunted_client.mod.keystrokes.option.mouseMovement=Movimiento De Ratón
+daunted_client.mod.keystrokes.option.showSpace=Espacio
+daunted_client.mod.keystrokes.option.cps=CPS en Teclas
+daunted_client.mod.keystrokes.option.backgroundColourPressed=Color De Fondo(Presiondao)
+daunted_client.mod.keystrokes.option.borderColourPressed=Color De Borde(Presionado)
+daunted_client.mod.keystrokes.option.textColourPressed=Color De Texto(Presionado)
+daunted_client.mod.keystrokes.option.smoothColours=Colores Suaves
+
+
+daunted_client.mod.cps.name=CPS
+daunted_client.mod.cps.description=Mostrar tus CPS (clices por segundo).
+
+
+daunted_client.mod.cps.option.rmb=CPS de botón derecho del ratón
+daunted_client.mod.cps.option.separatorColour=Color de separador
+
+
+daunted_client.mod.ping.name=Ping
+daunted_client.mod.ping.description=Mostrar la latencia al servidor actual.
+
+
+daunted_client.mod.speedometer.name=Velocímetro
+daunted_client.mod.speedometer.description=Mostar tu velocidad.
+
+
+daunted_client.mod.speedometer.option.graphMode=Ver con gráficas
+
+
+daunted_client.mod.reach_display.name=Mostar distancia de alcance.
+daunted_client.mod.reach_display.description=Mostar la distancia cuando pegas entidades
+
+
+daunted_client.mod.combo_counter.name=Combo Contador
+daunted_client.mod.combo_counter.description=Contar el número de golpes posteriores
+
+
+daunted_client.mod.combo_counter.no_hits=No combo
+daunted_client.mod.combo_counter.one_hit=1 golpe
+daunted_client.mod.combo_counter.n_hits=%s golpes
+
+
+daunted_client.mod.potion_effects.name=Efectos de pociones
+daunted_client.mod.potion_effects.description=Mostar tus pociones activos con temporizadores de cuenta atrás.
+
+
+daunted_client.mod.potion_effects.option.alignment=Alineación
+daunted_client.mod.potion_effects.option.icon=Icono
+daunted_client.mod.potion_effects.option.background=Fondo
+daunted_client.mod.potion_effects.option.title=Etiqueta
+daunted_client.mod.potion_effects.option.titleColour=Color de etiqueta
+daunted_client.mod.potion_effects.option.duration=Duración
+daunted_client.mod.potion_effects.option.durationColour=Color de duración
+daunted_client.mod.potion_effects.option.spacing=Espacio
+
+
+daunted_client.mod.armour.name=Armadura y equipamiento
+daunted_client.mod.armour.description=Mostar tu armadura y equipamiento con durabilidad.
+
+
+daunted_client.mod.armour.option.durability=Durabilidad
+daunted_client.mod.armour.option.durability.remaining=Restante
+daunted_client.mod.armour.option.durability.percentage=Porcentaje
+daunted_client.mod.armour.option.durability.fraction=Fracción
+
+
+daunted_client.mod.armour.option.armour=Mostar armadura
+daunted_client.mod.armour.option.hand=Mostar artículo
+daunted_client.mod.timers.name=Temporizadores
+daunted_client.mod.timers.description=Mostar temporizadores para eventos del juego.
+
+
+daunted_client.mod.timers.option.alignment=Alineación
+daunted_client.mod.timers.option.icon=Icono
+daunted_client.mod.timers.option.nameColour=Color de etiqueta
+daunted_client.mod.timers.option.timeColour=Color de tiempo
+
+
+daunted_client.mod.chat.name=Chateo
+daunted_client.mod.chat.description=Customizar chateo del juego.
+
+
+daunted_client.mod.chat.peek=Vistazo
+daunted_client.mod.chat.option.preventClose=Prevenir cerrar
+daunted_client.mod.chat.option.smooth=Animación de mensaje
+daunted_client.mod.chat.option.infiniteChat=Chateo infinito
+daunted_client.mod.chat.option.peekKey=Tecla para echar un vistazo
+
+
+daunted_client.mod.chat.option.visibility=Visibilidad
+daunted_client.mod.chat.option.visibility.shown=Mostrado
+daunted_client.mod.chat.option.visibility.commands=Solo comandos
+daunted_client.mod.chat.option.visibility.hidden=Escondido
+
+
+daunted_client.mod.chat.option.defaultTextColour=Predeterminado color de texto
+daunted_client.mod.chat.option.colours=Colores
+daunted_client.mod.chat.option.width=Ancho
+daunted_client.mod.chat.option.closedHeight=Altura cerrada
+daunted_client.mod.chat.option.openHeight=Altura abierta
+daunted_client.mod.chat.option.links=Enlaces
+daunted_client.mod.chat.option.promptLinks=Prompt Enlaces
+daunted_client.mod.chat.option.chatFilter=Activar filtro de chateo
+daunted_client.mod.chat.option.filteredWordsContent=Palabras Filtradas
+
+
+daunted_client.mod.tab_list.name=Lista de Tabulador.
+daunted_client.mod.tab_list.description=Customizar lista de tabulador.
+
+
+daunted_client.mod.tab_list.option.hideHeader=Esconder encabezado.
+daunted_client.mod.tab_list.option.hideFooter=Esconder pie de página
+
+
+daunted_client.mod.tab_list.option.pingType=Ping
+daunted_client.mod.tab_list.option.pingType.none=Escondido
+daunted_client.mod.tab_list.option.pingType.icon=Icono
+daunted_client.mod.tab_list.option.pingType.numeral=Número
+
+
+daunted_client.mod.tab_list.option.backgroundColour=Color de fondo de lista
+daunted_client.mod.tab_list.option.entryBackgroundColour=Color de fondo de entrada
+daunted_client.mod.tab_list.option.hidePlayerHeads=Esconder cabezas de jugadores
+daunted_client.mod.tab_list.option.textShadow=Sombra de texto
+
+
+daunted_client.mod.crosshair.name=Punto de mira
+daunted_client.mod.crosshair.description=Personalizar el punto de mira.
+
+
+daunted_client.mod.crosshair.option.style=Estilo
+daunted_client.mod.crosshair.option.style.default=Defecto
+daunted_client.mod.crosshair.option.style.none=Nada
+daunted_client.mod.crosshair.option.style.dot=Punto
+daunted_client.mod.crosshair.option.style.plus=Plus
+daunted_client.mod.crosshair.option.style.plus_dot=Punto plus
+daunted_client.mod.crosshair.option.style.square=Cuadrado
+daunted_client.mod.crosshair.option.style.square_dot=Punto cuadrado
+daunted_client.mod.crosshair.option.style.circle=Circulo
+daunted_client.mod.crosshair.option.style.circle_dot=Punto circular
+daunted_client.mod.crosshair.option.style.four_angled=X
+daunted_client.mod.crosshair.option.style.four_angled_dot=X con punto
+daunted_client.mod.crosshair.option.style.triangle=Triángulo
+
+
+daunted_client.mod.crosshair.option.thirdPerson=Mostrar en tercera persona
+daunted_client.mod.crosshair.option.spectatorAlways=Mostrar en modo espectador
+daunted_client.mod.crosshair.option.debug=Mostrar en superposición de depuración
+daunted_client.mod.crosshair.option.blending=Mezclar
+daunted_client.mod.crosshair.option.crosshairColour=Color
+daunted_client.mod.crosshair.option.highlightEntities=Resaltar entidades
+daunted_client.mod.crosshair.option.entityColour=Color de entidades
+
+
+daunted_client.mod.scoreboard.name=Marcador
+daunted_client.mod.scoreboard.description=Personalizar el marcador.
+
+
+daunted_client.mod.scoreboard.option.backgroundColourTop=Color de fondo superior
+daunted_client.mod.scoreboard.option.numbers=Números
+daunted_client.mod.scoreboard.option.numbersColour=Colores de números
+
+
+daunted_client.mod.tweaks.name=Modificaciones
+daunted_client.mod.tweaks.description=Varias modificaciones incluyendo fullbright.
+
+
+daunted_client.mod.tweaks.option.fullbright=Fullbright
+daunted_client.mod.tweaks.option.showOwnTag=Mostrar tu propio Nametag
+daunted_client.mod.tweaks.option.arabicNumerals=Números arábigos
+daunted_client.mod.tweaks.option.betterTooltips=Mejorar Tooltips
+daunted_client.mod.tweaks.option.minimalViewBobbing=Balanceo mínimo
+daunted_client.mod.tweaks.option.minimalDamageShake=Agitar de daño mínimo
+daunted_client.mod.tweaks.option.damageShakeIntensity=Intensidad de agitar de daño
+daunted_client.mod.tweaks.option.confirmDisconnect=Confirmar desconexión
+daunted_client.mod.tweaks.option.borderlessFullscreen=Pantalla completa sin bordes
+daunted_client.mod.tweaks.option.betterKeyBindings=Mejorado enlaces de teclas
+daunted_client.mod.tweaks.option.disableHotbarScrolling=Desactivar desplazarte barra de acceso directo.
+
+
+daunted_client.mod.tweaks.confirm_disconnect=Pulsa de nuevo para confirmar.
+
+
+daunted_client.mod.freelook.name=Mirada libre
+daunted_client.mod.freelook.description=Cambiar tu perspectiva sin girar tu jugador.
+
+
+daunted_client.mod.freelook.key=Mirada libre
+daunted_client.mod.freelook.option.key=Tecla
+
+
+daunted_client.mod.freelook.option.perspective=Perspectiva
+daunted_client.mod.freelook.option.invertPitch=Invertir verticalmente
+daunted_client.mod.freelook.option.invertYaw=Invertir horizontalmente
+
+
+daunted_client.mod.taplook.name=Mirada de golpear suavemente
+daunted_client.mod.taplook.description=Modificar su perspectiva pulsando un tecla
+
+
+daunted_client.mod.taplook.key=Mirada de golpear suavemente
+daunted_client.mod.taplook.option.key=Tecla
+daunted_client.mod.taplook.option.perspective=Perspectiva
+
+
+daunted_client.mod.toggle_sprint.name=Alternar sprint
+daunted_client.mod.toggle_sprint.description=Hace que la tecla de sprint puede alternar el sprint.
+
+
+daunted_client.mod.toggle_sprint.default_width=113
+
+
+daunted_client.mod.toggle_sprint.option.hud=HUD
+
+
+daunted_client.mod.toggle_sprint.held=Sprinting (Pulsado)
+daunted_client.mod.toggle_sprint.toggled=Sprinting (Alternado)
+
+
+daunted_client.mod.zoom.name=Zoom
+daunted_client.mod.zoom.description=Acercar al pulsar un botón
+
+
+daunted_client.mod.zoom.key=Zoom
+daunted_client.mod.zoom.option.key=Tecla
+daunted_client.mod.zoom.zoom_out=Alejar
+daunted_client.mod.zoom.option.zoomOutKey=Tecla de alejar
+daunted_client.mod.zoom.zoom_in=Acercar
+daunted_client.mod.zoom.option.zoomInKey=Tecla de acercar
+daunted_client.mod.zoom.option.cinematic=Cámara cinematográfica
+daunted_client.mod.zoom.option.reduceSensitivity=Reducir la sensibilidad
+daunted_client.mod.zoom.option.scrolling=Desplácete para zoom
+daunted_client.mod.zoom.option.smooth=Animación de zoom
+daunted_client.mod.zoom.option.factor=Factor de zoom
+
+
+daunted_client.mod.replay.name=Reproducción
+daunted_client.mod.replay.description=Grabar y reproducir tu juego
+
+
+daunted_client.mod.replay.option.enableNotifications=Activar las notificaciones
+daunted_client.mod.replay.option.recordSingleplayer=Grabar un solo jugador
+daunted_client.mod.replay.option.recordServer=Grabar servidor
+daunted_client.mod.replay.option.recordingIndicator=Indicador de grabación
+daunted_client.mod.replay.option.recordingIndicatorColour=Color de indicador de grabación
+daunted_client.mod.replay.option.recordingIndicatorScale=Tamaño de indicador de grabación
+daunted_client.mod.replay.option.recordingIndicatorTextColour=Color de texto para indicador de grabación
+daunted_client.mod.replay.option.recordingIndicatorTextShadow=Sombra de texto para indicador de grabación
+daunted_client.mod.replay.option.automaticRecording=Grabación automática
+daunted_client.mod.replay.option.renameDialog=Renombrar diálogo
+daunted_client.mod.replay.option.showChat=Mostrar chat
+
+
+daunted_client.mod.replay.option.camera=Cámara
+daunted_client.mod.replay.option.camera.classic=Clásico
+daunted_client.mod.replay.option.camera.vanilla_ish=Sin modificaciones
+
+
+daunted_client.mod.replay.option.showPathPreview=Mostrar la trayectoria de la cámara
+
+
+daunted_client.mod.replay.option.defaultInterpolator=Interpolador por defecto
+daunted_client.mod.replay.interpolator.catmull=Spline de Catmull-Rom 
+daunted_client.mod.replay.interpolator.cubic=Spline cúbico
+daunted_client.mod.replay.interpolator.linear=Lineal
+
+
+daunted_client.mod.replay.option.showServerIPs=Mostrar los IPs de servidores.
+
+
+daunted_client.mod.quickplay.name=Partida rápida
+daunted_client.mod.quickplay.description=Empezar un partido rápidamente usando su teclado.
+
+
+daunted_client.mod.quickplay.key=Partida rápida
+daunted_client.mod.quickplay.option.menuKey=Tecla
+
+
+daunted_client.mod.hypixel_util.name=Ajustes de Hypixel
+daunted_client.mod.hypixel_util.description=Mejoras varias para la experiencia en Hypixel.
+
+
+daunted_client.mod.hypixel_util.option.visitHousingCommand=/visithousing
+daunted_client.mod.hypixel_util.option.lobbySoundsVolume=Volumen de sonidas en lobby
+daunted_client.mod.hypixel_util.option.housingMusicVolume=Volumen de música en Housing
+daunted_client.mod.hypixel_util.option.autogg=Auto GG
+daunted_client.mod.hypixel_util.option.autoggMessage=Mensaje de GG
+daunted_client.mod.hypixel_util.option.hidegg=Esconder GG
+daunted_client.mod.hypixel_util.option.autogl=Auto GL
+daunted_client.mod.hypixel_util.option.autoglMessage=Mensaje de GL
+daunted_client.mod.hypixel_util.option.hidegl=Esconder GL
+daunted_client.mod.hypixel_util.option.levelhead=Nivel en la cabeza
+
+
+daunted_client.mod.tnt_timer.name=Cuenta regresiva para TNT
+daunted_client.mod.tnt_timer.description=Mostrar una cuenta regresiva para TNT.
+
+
+daunted_client.mod.motion_blur.name=Desenfoque de movimiento
+daunted_client.mod.motion_blur.description=Efecto de desenfoque de movimiento.
+
+
+daunted_client.mod.motion_blur.option.blur=Desenfocar
+
+
+daunted_client.mod.menu_blur.name=Desenfocar menús
+daunted_client.mod.menu_blur.description=Desenfoque el fondo de menús.
+
+
+daunted_client.mod.menu_blur.option.blur=Difuminar
+daunted_client.mod.menu_blur.option.fadeTime=Tiempo para disiparse
+daunted_client.mod.menu_blur.option.backgroundColour=Color de fondo
+
+
+daunted_client.mod.colour_saturation.name=Saturación de color
+daunted_client.mod.colour_saturation.description=Adjustar la saturación de color del mundo.
+
+
+daunted_client.mod.colour_saturation.option.saturation=Saturación
+
+
+daunted_client.mod.chunk_animator.name=Animador de chunks
+daunted_client.mod.chunk_animator.description=Hace un animación del mundo mientras carga.
+
+
+daunted_client.mod.chunk_animator.option.duration=Duración
+daunted_client.mod.chunk_animator.option.animation=Animacion
+
+
+daunted_client.mod.1.7_visuals.name=Visuales de 1.7
+daunted_client.mod.1.7_visuals.description=Revertir algunas animaciones de 1.7.
+
+
+daunted_client.mod.1.7_visuals.option.useAndMine=Usar item mientras excavas
+daunted_client.mod.1.7_visuals.option.particles=Partículas
+daunted_client.mod.1.7_visuals.option.blocking=Bloquear con espada
+daunted_client.mod.1.7_visuals.option.eatingAndDrinking=Comer y beber
+daunted_client.mod.1.7_visuals.option.rod=Caña de pescar
+daunted_client.mod.1.7_visuals.option.bow=Arco
+daunted_client.mod.1.7_visuals.option.armourDamage=Color de daño en armadura
+daunted_client.mod.1.7_visuals.option.sneaking=Agachar suave
+
+
+daunted_client.mod.item_physics.name=Item Física de los Items
+daunted_client.mod.item_physics.description=Añadir una animación giratoria a los ítems.
+
+
+daunted_client.mod.item_physics.option.rotationSpeed=Velocidad de rotación
+
+
+daunted_client.mod.particles.name=Partículas
+daunted_client.mod.particles.description=Modificar partículas de ataque.
+
+
+daunted_client.mod.particles.option.multiplier=Multiplicador
+daunted_client.mod.particles.option.sharpness=Siempre mostrar afilado
+daunted_client.mod.particles.option.snow=Nieve
+daunted_client.mod.particles.option.slime=Slime
+daunted_client.mod.particles.option.flames=Llamas
+
+
+daunted_client.mod.time_changer.name=Cambiador de Tiempo
+daunted_client.mod.time_changer.description=Ajustar la hora visual sin modificar la hora real.
+
+
+daunted_client.mod.time_changer.option.time=Tiempo
+
+
+daunted_client.mod.block_selection.name=Selección de Bloques
+daunted_client.mod.block_selection.description=Modificar el contorno y color del bloque al que estás apuntado.
+
+
+daunted_client.mod.block_selection.option.outline=Contorno
+daunted_client.mod.block_selection.option.outlineWidth=Ancho de contorno
+daunted_client.mod.block_selection.option.outlineColour=Color de contorno
+daunted_client.mod.block_selection.option.fill=Aplicar un color
+daunted_client.mod.block_selection.option.fillColour=Color de llenar
+daunted_client.mod.block_selection.option.depth=Profundidad
+daunted_client.mod.block_selection.option.persistent=Persistente
+
+
+daunted_client.mod.hit_colour.name=Color de golpe
+daunted_client.mod.hit_colour.description=Cambiar el color de golpe.
+
+
+daunted_client.mod.hit_colour.option.colour=Color
+
+
+daunted_client.mod.hitbox.name=Hitbox
+daunted_client.mod.hitbox.description=Modificar y conmutar hitboxes fácilmente.
+
+
+daunted_client.mod.hitbox.option.toggleHitboxes=Conmutar hitbox
+daunted_client.mod.hitbox.option.boundingBox=Color de hitbox
+daunted_client.mod.hitbox.option.boundingBoxColour=Color de hitbox
+daunted_client.mod.hitbox.option.eyeHeight=Monstrar punto de vista
+daunted_client.mod.hitbox.option.eyeHeightColour=Color de punto de vista
+daunted_client.mod.hitbox.option.lookVector=Monstrar vector de mirada
+daunted_client.mod.hitbox.option.lookVectorColour=Color de vector de mirada
+daunted_client.mod.hitbox.option.lineWidth=Ancho de línea
+
+
+daunted_client.mod.category.general.name=General
+daunted_client.mod.category.hud.name=HUD
+daunted_client.mod.category.utility.name=Utilidad
+daunted_client.mod.category.visual.name=Visual
+daunted_client.mod.category.integration.name=Integración
+
+
+daunted_client.mod.discord_integration.name=Integración de discord
+daunted_client.mod.discord_integration.description=Funciones de integración para Discord (actividades y posición).
+
+
+daunted_client.mod.discord_integration.option.voiceChatHud=HUD del chat de voz
+daunted_client.mod.discord_integration.option.voiceChatHudScale=Tamaño del HUD del chat de voz
+daunted_client.mod.discord_integration.option.voiceChatHudAlignment=Posición del HUD del chat de voz
+daunted_client.mod.discord_integration.option.usernameColour=Color de nombre
+daunted_client.mod.discord_integration.option.mutedColour=Color de personas silenciadas
+daunted_client.mod.discord_integration.option.speakingColour=Color cuando hablando
+
+
+daunted_client.mod.screen.title=Módulos
+daunted_client.mod.screen.search=Escribe para buscar
+daunted_client.mod.screen.apply_to_all=Aplicar a todos
+
+
+daunted_client.hud.edit=Modificar HUD
+
+
+daunted_client.packs.apply=Applicar
+daunted_client.packs.open_folder=Carpeta de paquetes
+daunted_client.packs.folder=Carpeta (%d items)
+
+
+daunted_client.screenshot.view=Ver
+daunted_client.screenshot.open_folder=Monstrar en carpeta

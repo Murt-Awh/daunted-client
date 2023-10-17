@@ -1,0 +1,7 @@
+{
+	// #119
+	// this feels stupid
+	// fabric mod json to be concise
+	"id": "daunted-client",
+	"accessWidener": "replay-mod.accesswidener"
+}

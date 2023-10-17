@@ -1,0 +1,439 @@
+daunted_client.passthrough=%s
+daunted_client.slider.percent=%s%%
+daunted_client.slider.factor=%sx
+daunted_client.slider.seconds=%ss
+
+daunted_client.vertical_alignment.top=Trên
+daunted_client.vertical_alignment.middle=Giữa
+daunted_client.vertical_alignment.bottom=Cuối
+
+daunted_client.perspective.first_person=Góc nhìn thứ nhất
+daunted_client.perspective.third_person_back=Góc nhìn thứ 3 phía sau
+daunted_client.perspective.third_person_front=Góc nhìn thứ 3 phía trước
+
+daunted_client.easing.linear=Linear
+daunted_client.easing.quad=Quad
+daunted_client.easing.cubic=Cubic
+daunted_client.easing.quart=Quart
+daunted_client.easing.quint=Quint
+daunted_client.easing.expo=Expo
+daunted_client.easing.sine=Sine
+daunted_client.easing.circ=Circ
+daunted_client.easing.back=Back
+daunted_client.easing.bounce=Bounce
+daunted_client.easing.elastic=Elastic
+
+daunted_client.file.edit=Chỉnh sửa tập tin...
+
+daunted_client.servers=Danh sách máy chủ
+
+daunted_client.key.category=Daunted Client
+daunted_client.key.accept_request=Chấp nhận yêu cầu
+daunted_client.key.dismiss_request=Từ chối yêu cầu
+
+daunted_client.mod.generic.option.enabled=Bật
+daunted_client.mod.hud.option.scale=Độ lớn
+daunted_client.mod.simple_hud.option.background=Nền
+daunted_client.mod.simple_hud.option.backgroundColour=Màu nền
+daunted_client.mod.simple_hud.option.border=Viền
+daunted_client.mod.simple_hud.option.borderColour=Màu viền
+daunted_client.mod.simple_hud.option.textColour=Màu chữ
+daunted_client.mod.simple_hud.option.shadow=Bóng chữ
+daunted_client.mod.smooth_counter_hud.option.smoothNumbers=Hiệu ứng nhảy số
+
+daunted_client.mod.daunted_client.name=Daunted Client
+daunted_client.mod.daunted_client.description=Các thiết lập chung của Daunted Client.
+
+daunted_client.mod.daunted_client.option.fancyMainMenu=Sử dụng Màn hình chính của Sol
+daunted_client.mod.daunted_client.option.logoInInventory=Hiện Logo ở giao diện Túi đồ
+daunted_client.mod.daunted_client.mods=Các mô-đun
+daunted_client.mod.daunted_client.option.modsKey=Phím mô-đun
+daunted_client.mod.daunted_client.edit_hud=Chỉnh sửa HUD
+daunted_client.mod.daunted_client.option.editHudKey=Chỉnh sửa phím tắt HUD
+daunted_client.mod.daunted_client.option.uiColour=Màu sắc chủ đạo
+daunted_client.mod.daunted_client.option.smoothUIColours=Làm mượt màu sắc chủ đạo
+daunted_client.mod.daunted_client.option.roundedUI=Giao diện bo tròn
+daunted_client.mod.daunted_client.option.buttonClicks=Âm thanh khi nhấn nút
+daunted_client.mod.daunted_client.option.smoothScrolling=Làm mượt cuộn trang
+daunted_client.mod.daunted_client.option.fancyFont=Phông chữ HD
+
+daunted_client.mod.fps.name=FPS
+daunted_client.mod.fps.description=Hiện FPS (Số lượng khung hình mỗi giây).
+
+daunted_client.mod.coordinates.name=Toạ độ
+daunted_client.mod.coordinates.description=Hiện toạ độ của bạn.
+
+daunted_client.mod.coordinates.option.axisLabelColour=Màu tiêu đề của toạ độ
+daunted_client.mod.coordinates.option.axisValueColour=Màu giá trị toạ độ
+daunted_client.mod.coordinates.option.cardinalDirection=Hướng đang nhìn
+daunted_client.mod.coordinates.option.cardinalDirectionColour=Màu hướng đang nhìn
+daunted_client.mod.coordinates.option.axisDirection=Hướng thay đổi giá trị
+daunted_client.mod.coordinates.option.axisDirectionColour=Màu hướng thay đổi giá trị
+
+daunted_client.mod.keystrokes.name=Keystrokes
+daunted_client.mod.keystrokes.description=Hiển thị phím đang được ấn.
+
+daunted_client.mod.keystrokes.option.movement=Di chuyển
+daunted_client.mod.keystrokes.option.mouse=Chuột
+daunted_client.mod.keystrokes.option.mouseMovement=Di chuyển chuột
+daunted_client.mod.keystrokes.option.showSpace=Dấu cách
+daunted_client.mod.keystrokes.option.cps=Hiện CPS cho phím
+daunted_client.mod.keystrokes.option.backgroundColourPressed=Màu nền (Khi ấn)
+daunted_client.mod.keystrokes.option.borderColourPressed=Màu viền (Khi ấn)
+daunted_client.mod.keystrokes.option.textColourPressed=Màu chữ (Khi ấn)
+daunted_client.mod.keystrokes.option.smoothColours=Làm mượt màu sắc
+
+daunted_client.mod.cps.name=CPS
+daunted_client.mod.cps.description=Hiển thị CPS (Số lần click mỗi giây).
+
+daunted_client.mod.cps.option.rmb=CPS chuột phải
+daunted_client.mod.cps.option.separatorColour=Màu phân cách
+
+daunted_client.mod.ping.name=Ping
+daunted_client.mod.ping.description=Hiển thị độ trễ của kết nối đến máy chủ.
+
+daunted_client.mod.ping.option.source=Nguồn thông tin
+daunted_client.mod.ping.option.source.auto=Tự động
+daunted_client.mod.ping.option.source.multiplayer_screen=Ở màn hình Chọn máy chủ
+daunted_client.mod.ping.option.source.tab_list=Ở Tab
+
+daunted_client.mod.speedometer.name=Bộ đếm tốc độ
+daunted_client.mod.speedometer.description=Hiển thị tốc độ di chuyển.
+
+daunted_client.mod.speedometer.option.graphMode=Chế độ đồ thị
+
+daunted_client.mod.reach_display.name=Reach Display
+daunted_client.mod.reach_display.description=Hiển thị khoảng cách khi PVP.
+
+daunted_client.mod.combo_counter.name=Bộ đếm Combo
+daunted_client.mod.combo_counter.description=Hiển thị số lần đánh trúng liên tiếp.
+
+daunted_client.mod.combo_counter.no_hits=Chưa đánh trúng
+daunted_client.mod.combo_counter.one_hit=1 lần đánh trúng liên tục
+daunted_client.mod.combo_counter.n_hits=%s lần đánh trúng liên tục
+
+daunted_client.mod.potion_effects.name=Hiệu ứng thuốc
+daunted_client.mod.potion_effects.description=Hiển thị hiệu ứng thuốc đang có hiệu lực và thời gian còn lại.
+
+daunted_client.mod.potion_effects.option.alignment=Căn lề
+daunted_client.mod.potion_effects.option.icon=Biểu tượng
+daunted_client.mod.potion_effects.option.background=Nền
+daunted_client.mod.potion_effects.option.title=Tên thuốc
+daunted_client.mod.potion_effects.option.titleColour=Màu chữ
+daunted_client.mod.potion_effects.option.duration=Thời gian còn lại
+daunted_client.mod.potion_effects.option.durationColour=Màu thời gian
+daunted_client.mod.potion_effects.option.spacing=Khoảng cách giữa các hiệu ứng
+
+daunted_client.mod.armour.name=Giáp và công cụ
+daunted_client.mod.armour.description=Hiển thị giáp và công cụ cùng với độ bền hiện tại.
+
+daunted_client.mod.armour.option.durability=Độ bền
+daunted_client.mod.armour.option.durability.remaining=Còn lại
+daunted_client.mod.armour.option.durability.percentage=Phần trăm
+daunted_client.mod.armour.option.durability.fraction=Phân số
+
+daunted_client.mod.armour.option.armour=Hiển thị giáp đang mặc
+daunted_client.mod.armour.option.hand=Hiển thị vật phẩm đang cầm trên tay
+
+daunted_client.mod.timers.name=Bộ đếm thời gian sự kiện
+daunted_client.mod.timers.description=Hiển thị thời gian còn lại của các sự kiện.
+
+daunted_client.mod.timers.option.alignment=Căn lề
+daunted_client.mod.timers.option.icon=Biểu tượng
+daunted_client.mod.timers.option.nameColour=Màu chữ
+daunted_client.mod.timers.option.timeColour=Màu thời gian
+
+daunted_client.mod.chat.name=Trò chuyện
+daunted_client.mod.chat.description=Tuỳ chỉnh khung trò chuyện.
+
+daunted_client.mod.chat.peek=Mở trò chuyện nhanh
+daunted_client.mod.chat.option.preventClose=Ngăn việc đóng khung trò chuyện tự động
+daunted_client.mod.chat.option.smooth=Hiệu ứng chat chạy lên khi có trò chuyện mới
+daunted_client.mod.chat.option.infiniteChat=Lịch sử trò chuyện không giới hạn
+daunted_client.mod.chat.option.peekKey=Phím tắt đọc trò chuyện nhanh
+
+daunted_client.mod.chat.option.visibility=Hiển thị trò chuyện
+daunted_client.mod.chat.option.visibility.shown=Mở
+daunted_client.mod.chat.option.visibility.commands=Chỉ khi nhập lệnh
+daunted_client.mod.chat.option.visibility.hidden=Đóng
+
+daunted_client.mod.chat.option.defaultTextColour=Màu chữ mặc định
+daunted_client.mod.chat.option.colours=Màu sắc
+daunted_client.mod.chat.option.width=Độ rộng
+daunted_client.mod.chat.option.closedHeight=Chiều cao chat khi đóng
+daunted_client.mod.chat.option.openHeight=Chiều cao chat khi mở
+daunted_client.mod.chat.option.links=Liên kết
+daunted_client.mod.chat.option.promptLinks=Nhắc nhở khi ấn vào liên kết
+daunted_client.mod.chat.option.chatFilter=Bật bộ lọc chat
+daunted_client.mod.chat.option.filteredWordsContent=Danh sách các từ bị lọc
+
+daunted_client.mod.tab_list.name=Tab List
+daunted_client.mod.tab_list.description=Tuỳ chỉnh tab/danh sách người chơi.
+
+daunted_client.mod.tab_list.option.hideHeader=Ẩn Header
+daunted_client.mod.tab_list.option.hideFooter=Ẩn Footer
+
+daunted_client.mod.tab_list.option.pingType=Ping
+daunted_client.mod.tab_list.option.pingType.none=Ẩn
+daunted_client.mod.tab_list.option.pingType.icon=Biểu tượng
+daunted_client.mod.tab_list.option.pingType.numeral=Số
+
+daunted_client.mod.tab_list.option.backgroundColour=Màu nền chung
+daunted_client.mod.tab_list.option.entryBackgroundColour=Màu nền từng dòng
+daunted_client.mod.tab_list.option.hidePlayerHeads=Ẩn biểu tượng đầu người chơi
+daunted_client.mod.tab_list.option.textShadow=Bóng đổ chữ
+
+daunted_client.mod.crosshair.name=Hồng tâm
+daunted_client.mod.crosshair.description=Tuỳ chỉnh hồng tâm.
+
+daunted_client.mod.crosshair.option.style=Kiểu hồng tâm.
+daunted_client.mod.crosshair.option.style.default=Mặc định
+daunted_client.mod.crosshair.option.style.none=Ẩn hoàn toàn
+daunted_client.mod.crosshair.option.style.dot=Chấm
+daunted_client.mod.crosshair.option.style.plus=Dấu cộng
+daunted_client.mod.crosshair.option.style.plus_dot=Dấu cộng chấm
+daunted_client.mod.crosshair.option.style.square=Hình vuông
+daunted_client.mod.crosshair.option.style.square_dot=Hình vuông chấm
+daunted_client.mod.crosshair.option.style.circle=Hình tròn
+daunted_client.mod.crosshair.option.style.circle_dot=Hình tròn chấm
+daunted_client.mod.crosshair.option.style.four_angled=Gạch chéo
+daunted_client.mod.crosshair.option.style.four_angled_dot=Gạch chéo chấm
+daunted_client.mod.crosshair.option.style.triangle=Tam giác
+
+daunted_client.mod.crosshair.option.thirdPerson=Hiển thị ở góc nhìn thứ 3
+daunted_client.mod.crosshair.option.spectatorAlways=Hiển thị ở chế độ Khán giả
+daunted_client.mod.crosshair.option.debug=Hiển thị ở Màn hình Gỡ rối
+daunted_client.mod.crosshair.option.blending=Hoà trộn màu
+daunted_client.mod.crosshair.option.crosshairColour=Màu hồng tâm
+daunted_client.mod.crosshair.option.highlightEntities=Đổi màu khi đưa vào thực thể
+daunted_client.mod.crosshair.option.entityColour=Màu khi đưa vào thực thể
+
+daunted_client.mod.scoreboard.name=Scoreboard
+daunted_client.mod.scoreboard.description=Tuỳ chỉnh scoreboard.
+
+daunted_client.mod.scoreboard.option.hide=Tắt scoreboard
+daunted_client.mod.scoreboard.option.backgroundColourTop=Màu tiêu đề
+daunted_client.mod.scoreboard.option.numbers=Hiển thị số ở cuối hàng
+daunted_client.mod.scoreboard.option.numbersColour=Màu số
+
+daunted_client.mod.tweaks.name=Tinh chỉnh khác
+daunted_client.mod.tweaks.description=Các tinh chỉnh khác, bao gồm fullbright.
+
+daunted_client.mod.tweaks.option.fullbright=Fullbright
+daunted_client.mod.tweaks.option.showOwnTag=Hiển thị tên của chính mình
+daunted_client.mod.tweaks.option.arabicNumerals=Sử dụng Số La Mã
+daunted_client.mod.tweaks.option.betterTooltips=Chú giải vật phẩm tốt hơn
+daunted_client.mod.tweaks.option.minimalViewBobbing=Hạn chế lay động tầm nhìn
+daunted_client.mod.tweaks.option.minimalDamageShake=Hạn chế rung màn hình khi nhận sát thương
+daunted_client.mod.tweaks.option.damageShakeIntensity=Độ rung màn hình khi nhận sát thương
+daunted_client.mod.tweaks.option.confirmDisconnect=Xác nhận khi thoát khỏi máy chủ
+daunted_client.mod.tweaks.option.borderlessFullscreen=Toàn màn hình không viền
+daunted_client.mod.tweaks.option.betterKeyBindings=Nhận diện phím tắt tốt hơn
+daunted_client.mod.tweaks.option.disableHotbarScrolling=Vô hiệu hoá thanh cuộn Hotbar
+
+daunted_client.mod.tweaks.confirm_disconnect=Ấn một lần nữa để thoát khỏi máy chủ
+
+daunted_client.mod.freelook.name=Freelook
+daunted_client.mod.freelook.description=Tự do nhìn xung quanh.
+
+daunted_client.mod.freelook.key=Freelook
+daunted_client.mod.freelook.option.key=Phím tắt
+
+daunted_client.mod.freelook.option.perspective=Hướng nhìn
+daunted_client.mod.freelook.option.invertPitch=Đảo ngược hướng dọc của chuột
+daunted_client.mod.freelook.option.invertYaw=Đảo ngược hướng ngang của chuột
+
+daunted_client.mod.taplook.name=Taplook
+daunted_client.mod.taplook.description=Chuyển đổi góc nhìn nhanh bằng phím tắt.
+
+daunted_client.mod.taplook.key=Taplook
+daunted_client.mod.taplook.option.key=Phím tắt
+daunted_client.mod.taplook.option.perspective=Góc nhìn khi ấn
+
+daunted_client.mod.toggle_sprint.name=Toggle Sprint
+daunted_client.mod.toggle_sprint.description=Khoá phím chạy.
+
+daunted_client.mod.toggle_sprint.default_width=113
+
+daunted_client.mod.toggle_sprint.option.hud=HUD
+
+daunted_client.mod.toggle_sprint.held=Đang chạy (Giữ)
+daunted_client.mod.toggle_sprint.toggled=Đang chạy (Khoá phím)
+
+daunted_client.mod.zoom.name=Phóng to
+daunted_client.mod.zoom.description=Phóng to màn hình
+
+daunted_client.mod.zoom.key=Phóng to
+daunted_client.mod.zoom.option.key=Phím tắt
+daunted_client.mod.zoom.zoom_out=Thu nhỏ
+daunted_client.mod.zoom.option.zoomOutKey=Phím tắt thu nhỏ
+daunted_client.mod.zoom.zoom_in=Phóng to
+daunted_client.mod.zoom.option.zoomInKey=Phím tắt phóng to
+daunted_client.mod.zoom.option.cinematic=Camera kịch tính
+daunted_client.mod.zoom.option.reduceSensitivity=Giảm tốc độ chuột
+daunted_client.mod.zoom.option.scrolling=Thay đổi độ lớn bằng cuộn chuột
+daunted_client.mod.zoom.option.smooth=Hiệu ứng thu phóng
+daunted_client.mod.zoom.option.factor=Độ lớn thu phóng
+
+daunted_client.mod.replay.name=Phát lại
+daunted_client.mod.replay.description=Ghi lại diễn biến trò chơi và xem lại khi bạn muốn.
+
+daunted_client.mod.replay.option.enableNotifications=Thông báo hoạt động
+daunted_client.mod.replay.option.recordSingleplayer=Ghi hình chơi đơn
+daunted_client.mod.replay.option.recordServer=Ghi hình chơi nhiều người
+daunted_client.mod.replay.option.recordingIndicator=Hiển thị Chỉ báo Ghi hình
+daunted_client.mod.replay.option.recordingIndicatorColour=Màu sắc Chỉ báo
+daunted_client.mod.replay.option.recordingIndicatorScale=Kích thước Chỉ báo
+daunted_client.mod.replay.option.recordingIndicatorTextColour=Màu sắc chữ
+daunted_client.mod.replay.option.recordingIndicatorTextShadow=Bóng đổ chữ
+daunted_client.mod.replay.option.automaticRecording=Tự động bắt đầu ghi hình
+daunted_client.mod.replay.option.renameDialog=Cửa sổ đổi tên bản ghi khi hoàn tất ghi hình
+daunted_client.mod.replay.option.showChat=Hiển thị Chat
+
+daunted_client.mod.replay.option.camera=Dạng Camera
+daunted_client.mod.replay.option.camera.classic=Cổ điển
+daunted_client.mod.replay.option.camera.vanilla_ish=Vanilla-ish
+
+daunted_client.mod.replay.option.showPathPreview=Hiển thị đường di chuyển của máy quay
+
+daunted_client.mod.replay.option.defaultInterpolator=Interpolator mặc định
+daunted_client.mod.replay.interpolator.catmull=Catmull-Rom Spline
+daunted_client.mod.replay.interpolator.cubic=Cubic Spline
+daunted_client.mod.replay.interpolator.linear=Linear
+
+daunted_client.mod.replay.option.showServerIPs=Hiển thị địa chỉ máy chủ
+
+daunted_client.mod.quickplay.name=Quick Play
+daunted_client.mod.quickplay.description=Tự động tham gia game mới bằng phím tắt trên bàn phím.
+
+daunted_client.mod.quickplay.key=Quick Play
+daunted_client.mod.quickplay.option.menuKey=Phím tắt
+
+daunted_client.mod.hypixel_util.name=Hypixel Additions
+daunted_client.mod.hypixel_util.description=Các tuỳ chỉnh cải thiện trải nghiệm khi chơi Hypixel.
+
+daunted_client.mod.hypixel_util.option.visitHousingCommand=/visithousing
+daunted_client.mod.hypixel_util.option.lobbySoundsVolume=Độ lớn âm thanh Lobby
+daunted_client.mod.hypixel_util.option.housingMusicVolume=Độ lớn âm nhạc Housing
+daunted_client.mod.hypixel_util.option.popupEvents=Popup Events
+daunted_client.mod.hypixel_util.option.autogg=Tự động GG
+daunted_client.mod.hypixel_util.option.autoggMessage=Tin nhắn GG
+daunted_client.mod.hypixel_util.option.hidegg=Ẩn tin nhắn GG
+daunted_client.mod.hypixel_util.option.autogl=Tự động GL
+daunted_client.mod.hypixel_util.option.autoglMessage=Tin nhắn GL
+daunted_client.mod.hypixel_util.option.hidegl=Ẩn tin nhắn GL
+daunted_client.mod.hypixel_util.option.levelhead=Level Head
+
+daunted_client.mod.tnt_timer.name=Bộ đếm thời gian TNT
+daunted_client.mod.tnt_timer.description=Hiển thị thời gian nổ của TNT.
+
+daunted_client.mod.motion_blur.name=Làm mờ chuyển động.
+daunted_client.mod.motion_blur.description=Hiệu ứng mờ khi màn hình di chuyển.
+
+daunted_client.mod.motion_blur.option.blur=Độ mờ
+
+daunted_client.mod.menu_blur.name=Nền Menu Mờ
+daunted_client.mod.menu_blur.description=Làm mờ nền khi đang mở túi đồ hay giao diện bất kì.
+
+daunted_client.mod.menu_blur.option.blur=Độ mờ
+daunted_client.mod.menu_blur.option.fadeTime=Thời gian bắt đầu làm mờ
+daunted_client.mod.menu_blur.option.backgroundColour=Màu nền
+
+daunted_client.mod.colour_saturation.name=Color Saturation
+daunted_client.mod.colour_saturation.description=Tuỳ chỉnh độ bão hoà của màu sắc game.
+
+daunted_client.mod.colour_saturation.option.saturation=Độ bão hoà
+
+daunted_client.mod.chunk_animator.name=Chunk Animator
+daunted_client.mod.chunk_animator.description=Hoạt hoạ khi tải thế giới.
+
+daunted_client.mod.chunk_animator.option.duration=Tốc độ hoạt hoạ
+daunted_client.mod.chunk_animator.option.animation=Hoạt hoạ
+
+daunted_client.mod.1.7_visuals.name=Hiệu ứng 1.7
+daunted_client.mod.1.7_visuals.description=Mang trở lại hiệu ứng phiên bản 1.7.
+
+daunted_client.mod.1.7_visuals.option.useAndMine=Hiệu ứng đập khi dùng vật phẩm
+daunted_client.mod.1.7_visuals.option.particles=Hạt hiệu ứng
+daunted_client.mod.1.7_visuals.option.blocking=Chặn kiếm
+daunted_client.mod.1.7_visuals.option.eatingAndDrinking=Ăn uống
+daunted_client.mod.1.7_visuals.option.rod=Cần câu
+daunted_client.mod.1.7_visuals.option.bow=Cung tên
+daunted_client.mod.1.7_visuals.option.armourDamage=Hiệu ứng sát thương trên giáp
+daunted_client.mod.1.7_visuals.option.sneaking=Làm mượt hiệu ứng đi rón rén
+
+daunted_client.mod.item_physics.name=Hiệu ứng vật lí vật phẩm
+daunted_client.mod.item_physics.description=Hoạt hoạ vật phẩm rơi trên mặt đất.
+
+daunted_client.mod.item_physics.option.rotationSpeed=Tốc độ Quay
+
+daunted_client.mod.particles.name=Hạt hiệu ứng
+daunted_client.mod.particles.description=Tuỳ chỉnh hạt hiệu ứng sát thương.
+
+daunted_client.mod.particles.option.multiplier=Số lượng hạt hiệu ứng
+daunted_client.mod.particles.option.sharpness=Luôn hiện hiệu ứng Sắc bén
+daunted_client.mod.particles.option.snow=Tuyết
+daunted_client.mod.particles.option.slime=Chất nhầy
+daunted_client.mod.particles.option.flames=Lửa
+
+daunted_client.mod.time_changer.name=Thay đổi thời gian
+daunted_client.mod.time_changer.description=Thay đổi thời gian thế giới.
+
+daunted_client.mod.time_changer.option.time=Thời gian
+
+daunted_client.mod.block_selection.name=Hiệu ứng chọn khối
+daunted_client.mod.block_selection.description=Tuỳ chỉnh hiệu ứng khối đang chọn.
+
+daunted_client.mod.block_selection.option.outline=Viền
+daunted_client.mod.block_selection.option.outlineWidth=Độ lớn viền
+daunted_client.mod.block_selection.option.outlineColour=Màu viền
+daunted_client.mod.block_selection.option.fill=Nền
+daunted_client.mod.block_selection.option.fillColour=Màu nền
+daunted_client.mod.block_selection.option.depth=Ẩn các mặt bị che
+daunted_client.mod.block_selection.option.persistent=Luôn hiển thị ở mọi chế độ
+
+daunted_client.mod.hit_colour.name=Hit Color
+daunted_client.mod.hit_colour.description=Đổi màu hit.
+
+daunted_client.mod.hit_colour.option.colour=Màu
+
+daunted_client.mod.hitbox.name=Hitbox
+daunted_client.mod.hitbox.description=Tuỳ chỉnh, hiển thị hitbox người chơi.
+
+daunted_client.mod.hitbox.option.toggleHitboxes=Hiển thị Hitbox
+daunted_client.mod.hitbox.option.boundingBox=Hiển thị viền Hitbox
+daunted_client.mod.hitbox.option.boundingBoxColour=Màu sắc viền Hitbox
+daunted_client.mod.hitbox.option.eyeHeight=Hiển thị độ cao mắt
+daunted_client.mod.hitbox.option.eyeHeightColour=Màu độ cao mắt
+daunted_client.mod.hitbox.option.lookVector=Đường chỉ hướng nhìn của người chơi
+daunted_client.mod.hitbox.option.lookVectorColour=Màu đường chỉ hướng hình
+daunted_client.mod.hitbox.option.lineWidth=Độ lớn đường viền
+
+daunted_client.mod.category.general.name=Chung
+daunted_client.mod.category.hud.name=Giao diện
+daunted_client.mod.category.utility.name=Khác
+daunted_client.mod.category.visual.name=Hiển thị
+daunted_client.mod.category.integration.name=Tương tác
+
+daunted_client.mod.discord_integration.name=Tương tác với Discord
+daunted_client.mod.discord_integration.description=Các tính năng liên kết với Discord.
+
+daunted_client.mod.discord_integration.option.voiceChatHud=Hiển thị HUD Voice chat
+daunted_client.mod.discord_integration.option.voiceChatHudScale=Kích thước HUD
+daunted_client.mod.discord_integration.option.voiceChatHudAlignment=Căn lề HUD
+daunted_client.mod.discord_integration.option.usernameColour=Màu tên tài khoản mặc định
+daunted_client.mod.discord_integration.option.mutedColour=Màu tên tài khoản đã tắt Mic
+daunted_client.mod.discord_integration.option.speakingColour=Màu tên tài khoản đang nói
+
+daunted_client.mod.screen.title=Các mô-đun
+daunted_client.mod.screen.search=Gõ để tìm kiếm
+daunted_client.mod.screen.apply_to_all=Áp dụng cho toàn bộ Mod khác
+
+daunted_client.hud.edit=Chỉnh sửa HUD
+
+daunted_client.packs.apply=Áp dụng
+daunted_client.packs.open_folder=Thư mục tài nguyên
+daunted_client.packs.folder=Thư mục (%d gói tài nguyên)
+
+daunted_client.screenshot.view=Mở ảnh
+daunted_client.screenshot.open_folder=Hiển thị trong Thư mục

@@ -1,0 +1,429 @@
+daunted_client.passthrough=%s
+daunted_client.slider.percent=%s%%
+daunted_client.slider.factor=%sx
+daunted_client.slider.seconds=%s сек
+
+daunted_client.vertical_alignment.top=Вверх
+daunted_client.vertical_alignment.middle=По центру
+daunted_client.vertical_alignment.bottom=Вниз
+
+daunted_client.perspective.first_person=От 1-го лица
+daunted_client.perspective.third_person_back=От 3-го лица сзади
+daunted_client.perspective.third_person_front=От 3-го лица спереди
+
+daunted_client.easing.linear=Линейная
+daunted_client.easing.quad=Квадратная
+daunted_client.easing.cubic=Кубическая
+daunted_client.easing.quart=Квартовая
+daunted_client.easing.quint=Квинтовая
+daunted_client.easing.expo=Экспоненциальная
+daunted_client.easing.sine=Синусоидальная
+daunted_client.easing.circ=Круговая
+daunted_client.easing.back=Задняя
+daunted_client.easing.bounce=Прыгучая
+daunted_client.easing.elastic=Эластичная
+
+daunted_client.file.edit=Редактировать файл
+
+daunted_client.servers=Сервера
+
+daunted_client.key.category=Daunted Client
+daunted_client.key.accept_request=Принять запрос
+daunted_client.key.dismiss_request=Отклонить запрос
+
+daunted_client.mod.generic.option.enabled=Включено
+daunted_client.mod.hud.option.scale=Масштаб
+daunted_client.mod.simple_hud.option.background=Фон
+daunted_client.mod.simple_hud.option.backgroundColour=Цвет фона
+daunted_client.mod.simple_hud.option.border=Бордюр
+daunted_client.mod.simple_hud.option.borderColour=Цвет бордюра
+daunted_client.mod.simple_hud.option.textColour=Цвет текста
+daunted_client.mod.simple_hud.option.shadow=Тень текста
+
+daunted_client.mod.daunted_client.name=Daunted Client
+daunted_client.mod.daunted_client.description=Общие настройки Daunted Client.
+
+daunted_client.mod.daunted_client.option.fancyMainMenu=Красивое главное меню
+daunted_client.mod.daunted_client.option.logoInInventory=Показывать логотип в инвентаре
+daunted_client.mod.daunted_client.mods=Модули
+daunted_client.mod.daunted_client.option.modsKey=Ключ модулей
+daunted_client.mod.daunted_client.edit_hud=Редактировать интерфейс
+daunted_client.mod.daunted_client.option.editHudKey=Кнопка интерфейса
+daunted_client.mod.daunted_client.option.uiColour=Второй цвет
+daunted_client.mod.daunted_client.option.smoothUIColours=Плавная смена цветов
+daunted_client.mod.daunted_client.option.roundedUI=Скруглённый интерфейс
+daunted_client.mod.daunted_client.option.buttonClicks=Щелчки кнопок
+daunted_client.mod.daunted_client.option.smoothScrolling=Плавная промотка
+daunted_client.mod.daunted_client.option.fancyFont=Шрифт высокого разрешения
+
+daunted_client.mod.fps.name=FPS
+daunted_client.mod.fps.description=Отображает FPS (кадры в секунду).
+
+daunted_client.mod.coordinates.name=Координаты
+daunted_client.mod.coordinates.description=Показывает ваши координаты.
+
+daunted_client.mod.coordinates.option.axisLabelColour=Цвет названия оси
+daunted_client.mod.coordinates.option.axisValueColour=Цвет значения оси
+daunted_client.mod.coordinates.option.cardinalDirection=Общая ориентация
+daunted_client.mod.coordinates.option.cardinalDirectionColour=Цвет общей ориентации
+daunted_client.mod.coordinates.option.axisDirection=Точное направление
+daunted_client.mod.coordinates.option.axisDirectionColour=Цвет точного направления
+
+daunted_client.mod.keystrokes.name=Клавиши
+daunted_client.mod.keystrokes.description=Отображает в данный момент нажатые клавиши.
+
+daunted_client.mod.keystrokes.option.movement=Кнопки движения
+daunted_client.mod.keystrokes.option.mouse=Кнопки мыши
+daunted_client.mod.keystrokes.option.mouseMovement=Смещение мыши
+daunted_client.mod.keystrokes.option.showSpace=Пробел
+daunted_client.mod.keystrokes.option.cps=CPS на кнопках
+daunted_client.mod.keystrokes.option.backgroundColourPressed=Фон при нажатии
+daunted_client.mod.keystrokes.option.borderColourPressed=Бордюр при нажатии
+daunted_client.mod.keystrokes.option.textColourPressed=Цвет текста при нажатии
+daunted_client.mod.keystrokes.option.smoothColours=Плавная смена цветов
+
+daunted_client.mod.cps.name=CPS
+daunted_client.mod.cps.description=Отображает ваш CPS (нажатия в секунду).
+
+daunted_client.mod.cps.option.rmb=CPS правой кнопки мыши
+daunted_client.mod.cps.option.separatorColour=Цвет разделителя
+
+daunted_client.mod.ping.name=Пинг
+daunted_client.mod.ping.description=Отображает задержку приёмопередачи.
+
+daunted_client.mod.speedometer.name=Спидометр
+daunted_client.mod.speedometer.description=Отображает вашу скорость.
+
+daunted_client.mod.speedometer.option.graphMode=График
+
+daunted_client.mod.reach_display.name=Расстояние
+daunted_client.mod.reach_display.description=Отображает расстояние при ударе существ.
+
+daunted_client.mod.combo_counter.name=Счётчик комбо
+daunted_client.mod.combo_counter.description=Показывает количество ударов в ряд.
+daunted_client.mod.combo_counter.no_hits=Нет ударов
+daunted_client.mod.combo_counter.one_hit=1 удар
+daunted_client.mod.combo_counter.n_hits=%s ударов
+
+daunted_client.mod.potion_effects.name=Эффекты
+daunted_client.mod.potion_effects.description=Показывает активные эффекты с обратным отсчётом.
+
+daunted_client.mod.potion_effects.option.alignment=Выравнивание
+daunted_client.mod.potion_effects.option.icon=Иконка
+daunted_client.mod.potion_effects.option.background=Фон
+daunted_client.mod.potion_effects.option.title=Метка
+daunted_client.mod.potion_effects.option.titleColour=Цвет названия
+daunted_client.mod.potion_effects.option.duration=Время
+daunted_client.mod.potion_effects.option.durationColour=Цвет обр. отсчёта
+daunted_client.mod.potion_effects.option.spacing=Расстояние
+
+daunted_client.mod.armour.name=Броня и инструмент
+daunted_client.mod.armour.description=Показывает текущую броню, инструмент и их запас прочности.
+
+daunted_client.mod.armour.option.durability=Прочность
+daunted_client.mod.armour.option.durability.remaining=Остаток
+daunted_client.mod.armour.option.durability.percentage=Проценты
+daunted_client.mod.armour.option.durability.fraction=Дробь
+
+daunted_client.mod.armour.option.armour=Показывать броню
+daunted_client.mod.armour.option.hand=Показывать инструмент
+
+daunted_client.mod.timers.name=Таймеры
+daunted_client.mod.timers.description=Показывает таймеры для внутриигровых событий.
+
+daunted_client.mod.timers.option.alignment=Выравнивание
+daunted_client.mod.timers.option.icon=Иконка
+daunted_client.mod.timers.option.nameColour=Цвет наименования
+daunted_client.mod.timers.option.timeColour=Цвет таймера
+
+daunted_client.mod.chat.name=Чат
+daunted_client.mod.chat.description=Помогает дополнительно настроить чат.
+
+daunted_client.mod.chat.peek=Подсмотр
+daunted_client.mod.chat.option.preventClose=Предотвратить скрытие
+daunted_client.mod.chat.option.smooth=Анимация сообщений
+daunted_client.mod.chat.option.infiniteChat=Бесконечный чат
+daunted_client.mod.chat.option.peekKey=Кнопка подсмотра
+
+daunted_client.mod.chat.option.visibility=Видимость
+daunted_client.mod.chat.option.visibility.shown=Виден
+daunted_client.mod.chat.option.visibility.commands=Только команды
+daunted_client.mod.chat.option.visibility.hidden=Скрыт
+
+daunted_client.mod.chat.option.defaultTextColour=Цвет текста по умолчанию
+daunted_client.mod.chat.option.colours=Цвета
+daunted_client.mod.chat.option.width=Ширина
+daunted_client.mod.chat.option.closedHeight=Высота закрытого чата
+daunted_client.mod.chat.option.openHeight=Высота открытого чата
+daunted_client.mod.chat.option.links=Ссылки
+daunted_client.mod.chat.option.promptLinks=Запрашивать разрешение на открытие ссылок 
+daunted_client.mod.chat.option.chatFilter=Фильтр чата
+daunted_client.mod.chat.option.filteredWordsContent=Слова для фильтра
+
+daunted_client.mod.tab_list.name=Список игроков
+daunted_client.mod.tab_list.description=Настраивает список игроков.
+
+daunted_client.mod.tab_list.option.hideHeader=Скрыть верх
+daunted_client.mod.tab_list.option.hideFooter=Скрыть низ
+
+daunted_client.mod.tab_list.option.pingType=Индикатор соединения
+daunted_client.mod.tab_list.option.pingType.none=Скрыт
+daunted_client.mod.tab_list.option.pingType.icon=Иконка
+daunted_client.mod.tab_list.option.pingType.numeral=Цифра
+
+daunted_client.mod.tab_list.option.backgroundColour=Цвет фона списка
+daunted_client.mod.tab_list.option.entryBackgroundColour=Цвет фона игрока
+daunted_client.mod.tab_list.option.hidePlayerHeads=Скрыть головы
+daunted_client.mod.tab_list.option.textShadow=Тень текста
+
+daunted_client.mod.crosshair.name=Прицел
+daunted_client.mod.crosshair.description=Настраивает ваш прицел.
+
+daunted_client.mod.crosshair.option.style=Стиль
+daunted_client.mod.crosshair.option.style.default=По умолчанию
+daunted_client.mod.crosshair.option.style.none=Без прицела
+daunted_client.mod.crosshair.option.style.dot=Точка
+daunted_client.mod.crosshair.option.style.plus=Плюс
+daunted_client.mod.crosshair.option.style.plus_dot=Плюс с точкой
+daunted_client.mod.crosshair.option.style.square=Квадрат
+daunted_client.mod.crosshair.option.style.square_dot=Квадрат с точкой
+daunted_client.mod.crosshair.option.style.circle=Круг
+daunted_client.mod.crosshair.option.style.circle_dot=Круг с точкой
+daunted_client.mod.crosshair.option.style.four_angled=Ракетный
+daunted_client.mod.crosshair.option.style.four_angled_dot=Ракетный с точкой
+daunted_client.mod.crosshair.option.style.triangle=Треугольный
+
+daunted_client.mod.crosshair.option.thirdPerson=Показывать в режиме от 3-го лица
+daunted_client.mod.crosshair.option.spectatorAlways=Показывать в режиме обозревателя
+daunted_client.mod.crosshair.option.debug=Показывать в отладочном режиме
+daunted_client.mod.crosshair.option.blending=Смешивание
+daunted_client.mod.crosshair.option.crosshairColour=Цвет прицела
+daunted_client.mod.crosshair.option.highlightEntities=Подсвечивать существа
+daunted_client.mod.crosshair.option.entityColour=Цвет существ
+
+daunted_client.mod.scoreboard.name=Боковая таблица очков
+daunted_client.mod.scoreboard.description=Настраивает боковую таблицу очков.
+
+daunted_client.mod.scoreboard.option.backgroundColourTop=Фон верха
+daunted_client.mod.scoreboard.option.numbers=Цифры
+daunted_client.mod.scoreboard.option.numbersColour=Цвет цифр
+
+daunted_client.mod.tweaks.name=Твики
+daunted_client.mod.tweaks.description=Различные мелкие улучшения, включающие в себя Fullbright.
+
+daunted_client.mod.tweaks.option.fullbright=Fullbright
+daunted_client.mod.tweaks.option.showOwnTag=Показывать свой ник
+daunted_client.mod.tweaks.option.arabicNumerals=Арабские цифры на чарах
+daunted_client.mod.tweaks.option.betterTooltips=Улучшить подсказки
+daunted_client.mod.tweaks.option.minimalViewBobbing=Уменьшить покачивание камеры
+daunted_client.mod.tweaks.option.minimalDamageShake=Уменьшить качание при уроне
+daunted_client.mod.tweaks.option.damageShakeIntensity=Сила качания при уроне
+daunted_client.mod.tweaks.option.confirmDisconnect=Спрашивать при отключении
+daunted_client.mod.tweaks.option.betterKeyBindings=Улучшенные приивязки клавиш
+daunted_client.mod.tweaks.option.disableHotbarScrolling=Отключить колёсико в хотбаре
+daunted_client.mod.tweaks.option.borderlessFullscreen=Оконный полный экран
+
+daunted_client.mod.tweaks.confirm_disconnect=Нажмите ещё раз для подтверждения
+
+daunted_client.mod.freelook.name=Свободный просмотр
+daunted_client.mod.freelook.description=Разрешает смотреть вокруг не двигая головой.
+
+daunted_client.mod.freelook.key=Свободный просмотр
+daunted_client.mod.freelook.option.key=Кнопка
+
+daunted_client.mod.freelook.option.perspective=Перспектива
+daunted_client.mod.freelook.option.invertPitch=Инверсия мыши по вертикали
+daunted_client.mod.freelook.option.invertYaw=Инверсия мыши по горизонтали
+
+daunted_client.mod.taplook.name=Быстрая смена перспективы
+daunted_client.mod.taplook.description=Изменяет перспективу на время удержания кнопки.
+
+daunted_client.mod.taplook.key=Быстрая перспектива
+daunted_client.mod.taplook.option.key=Кнопка
+daunted_client.mod.taplook.option.perspective=Перспектива
+
+daunted_client.mod.toggle_sprint.name=Переключатель бега
+daunted_client.mod.toggle_sprint.description=Заставляет кнопку бега работать как переключатель.
+
+daunted_client.mod.toggle_sprint.option.hud=HUD
+
+daunted_client.mod.toggle_sprint.held=Бег (Зажат)
+daunted_client.mod.toggle_sprint.toggled=Бег (Включен)
+
+daunted_client.mod.zoom.name=Зум
+daunted_client.mod.zoom.description=Приблизить мир при нажатии на клавишу.
+
+daunted_client.mod.zoom.key=Приближение
+daunted_client.mod.zoom.option.key=Кнопка
+daunted_client.mod.zoom.zoom_out=Отдалить
+daunted_client.mod.zoom.option.zoomOutKey=Кнопка отдаления
+daunted_client.mod.zoom.zoom_in=Приблизить
+daunted_client.mod.zoom.option.zoomInKey=Кнопка приближения
+daunted_client.mod.zoom.option.cinematic=Кинематографическая камера
+daunted_client.mod.zoom.option.reduceSensitivity=Снизить чувствительность
+daunted_client.mod.zoom.option.scrolling=Приближение колёсиком
+daunted_client.mod.zoom.option.smooth=Плавное приближение
+daunted_client.mod.zoom.option.factor=Фактор приближения
+
+daunted_client.mod.replay.name=Запись
+daunted_client.mod.replay.description=Запись и воспроизведение геймплея.
+
+daunted_client.mod.replay.option.enableNotifications=Включить уведомления
+daunted_client.mod.replay.option.recordSingleplayer=Запись в одиночной игре
+daunted_client.mod.replay.option.recordServer=Запись на сервере
+daunted_client.mod.replay.option.recordingIndicator=Индикатор записи
+daunted_client.mod.replay.option.recordingIndicatorColour=Цвет индикатора записи
+daunted_client.mod.replay.option.recordingIndicatorScale=Масштаб индикатора записи
+daunted_client.mod.replay.option.recordingIndicatorTextColour=Цвет текста индикатора
+daunted_client.mod.replay.option.recordingIndicatorTextShadow=Тень текста индикатора
+daunted_client.mod.replay.option.automaticRecording=Автозапись
+daunted_client.mod.replay.option.renameDialog=Диалог переименования
+daunted_client.mod.replay.option.showChat=Показывать чат
+
+daunted_client.mod.replay.option.camera=Камера
+daunted_client.mod.replay.option.camera.classic=Классическая
+daunted_client.mod.replay.option.camera.vanilla_ish="Ванильная"
+
+daunted_client.mod.replay.option.showPathPreview=Показывать предпросмотр пути
+
+daunted_client.mod.replay.option.defaultInterpolator=Режим интерполяции
+daunted_client.mod.replay.interpolator.catmull=Сплайн Кэтмуля-Рома
+daunted_client.mod.replay.interpolator.cubic=Кубический
+daunted_client.mod.replay.interpolator.linear=Линейный
+
+daunted_client.mod.replay.option.showServerIPs=Показывать адреса серверов
+
+daunted_client.mod.quickplay.name=Быстрый переход
+daunted_client.mod.quickplay.description=Быстрый переход в миниигры с клавиатуры.
+
+daunted_client.mod.quickplay.key=Быстрый переход
+daunted_client.mod.quickplay.option.menuKey=Кнопка
+
+daunted_client.mod.hypixel_util.name=Дополнения для Hypixel
+daunted_client.mod.hypixel_util.description=Разлиные дополнения для игры на Hypixel.
+
+daunted_client.mod.hypixel_util.option.visitHousingCommand=/visithousing
+daunted_client.mod.hypixel_util.option.lobbySoundsVolume=Громкость звука в лобби
+daunted_client.mod.hypixel_util.option.housingMusicVolume=громкость музыки в Housing
+daunted_client.mod.hypixel_util.option.popupEvents=Уведомления событий
+daunted_client.mod.hypixel_util.option.autogg=Авто-GG
+daunted_client.mod.hypixel_util.option.autoggMessage=Сообщение Авто-GG
+daunted_client.mod.hypixel_util.option.hidegg=Скрывать GG
+daunted_client.mod.hypixel_util.option.autogl=Авто-GL
+daunted_client.mod.hypixel_util.option.autoglMessage=Сообщение Авто-GL
+daunted_client.mod.hypixel_util.option.hidegl=Скрывать GL
+daunted_client.mod.hypixel_util.option.levelhead=Голова уровня
+
+daunted_client.mod.tnt_timer.name=Таймер динамита
+daunted_client.mod.tnt_timer.description=Показывает таймер взрыва динамита.
+
+daunted_client.mod.motion_blur.name=Размытие движения
+daunted_client.mod.motion_blur.description=Включает эффект плавного размытия движения.
+
+daunted_client.mod.motion_blur.option.blur=Сила размытия
+
+daunted_client.mod.menu_blur.name=Размытие фона меню
+daunted_client.mod.menu_blur.description=Размывает фон в меню.
+
+daunted_client.mod.menu_blur.option.blur=Сила размытия
+daunted_client.mod.menu_blur.option.fadeTime=Время размытия
+daunted_client.mod.menu_blur.option.backgroundColour=Цвет фона
+
+daunted_client.mod.colour_saturation.name=Резкость
+daunted_client.mod.colour_saturation.description=Настраивает резкость цветов в мире.
+
+daunted_client.mod.colour_saturation.option.saturation=Резкость
+
+daunted_client.mod.chunk_animator.name=Анимация прогрузки
+daunted_client.mod.chunk_animator.description=Анимирует мир по мере прогрузки.
+
+daunted_client.mod.chunk_animator.option.duration=Время
+daunted_client.mod.chunk_animator.option.animation=Анимация
+
+daunted_client.mod.1.7_visuals.name=Оформление 1.7
+daunted_client.mod.1.7_visuals.description=Частично возвращает ощущения от 1.7
+
+daunted_client.mod.1.7_visuals.option.useAndMine=Копание при использовании предмета
+daunted_client.mod.1.7_visuals.option.particles=Частицы
+daunted_client.mod.1.7_visuals.option.blocking=Блокирование мечом
+daunted_client.mod.1.7_visuals.option.eatingAndDrinking=Еда и питьё
+daunted_client.mod.1.7_visuals.option.rod=Удочка
+daunted_client.mod.1.7_visuals.option.bow=Лук
+daunted_client.mod.1.7_visuals.option.armourDamage=Эффект урона по броне
+daunted_client.mod.1.7_visuals.option.sneaking=Плавное приседание
+
+daunted_client.mod.item_physics.name=Физика предметов
+daunted_client.mod.item_physics.description=Добавляет физику падения предметов.
+
+daunted_client.mod.item_physics.option.rotationSpeed=Скорость вращения
+
+daunted_client.mod.particles.name=Частицы
+daunted_client.mod.particles.description=Настраивает и умножает некоторые виды частиц.
+
+daunted_client.mod.particles.option.multiplier=Множитель
+daunted_client.mod.particles.option.sharpness=Всегда показывать остроту
+daunted_client.mod.particles.option.snow=Добавить снег
+daunted_client.mod.particles.option.slime=Добавить слаймы
+daunted_client.mod.particles.option.flames=Добавить огоньки
+
+daunted_client.mod.time_changer.name=Изменение времени
+daunted_client.mod.time_changer.description=Изменяет видимое время, не изменяя геймплей.
+
+daunted_client.mod.time_changer.option.time=Время
+
+daunted_client.mod.block_selection.name=Рамка блоков
+daunted_client.mod.block_selection.description=Настраивает рамку выбора блоков.
+
+daunted_client.mod.block_selection.option.outline=Обводка
+daunted_client.mod.block_selection.option.outlineWidth=Ширина обводки
+daunted_client.mod.block_selection.option.outlineColour=Цвет обводки
+daunted_client.mod.block_selection.option.fill=Заливка
+daunted_client.mod.block_selection.option.fillColour=Цвет заливки
+daunted_client.mod.block_selection.option.depth=Глубина
+daunted_client.mod.block_selection.option.persistent=Отображается всегда
+
+daunted_client.mod.hit_colour.name=Цвет удара
+daunted_client.mod.hit_colour.description=Изменяет цвет удара.
+
+daunted_client.mod.hit_colour.option.colour=Цвет
+
+daunted_client.mod.hitbox.name=Хитбоксы
+daunted_client.mod.hitbox.description=Настраивает и включает отображение хитбоксов.
+
+daunted_client.mod.hitbox.option.toggleHitboxes=Включить хитбоксы
+daunted_client.mod.hitbox.option.boundingBox=Показывать хитбокс
+daunted_client.mod.hitbox.option.boundingBoxColour=Цвет хитбокса
+daunted_client.mod.hitbox.option.eyeHeight=Показывать высоту глаз
+daunted_client.mod.hitbox.option.eyeHeightColour=Цвет высоты глаз
+daunted_client.mod.hitbox.option.lookVector=Показывать вектор поворота
+daunted_client.mod.hitbox.option.lookVectorColour=Цвет вектора поворота
+daunted_client.mod.hitbox.option.lineWidth=Ширина линий
+
+daunted_client.mod.category.general.name=Общие
+daunted_client.mod.category.hud.name=Интерфейс
+daunted_client.mod.category.utility.name=Инструменты
+daunted_client.mod.category.visual.name=Вид
+daunted_client.mod.category.integration.name=Интеграция
+
+daunted_client.mod.discord_integration.name=Интеграция с Discord
+daunted_client.mod.discord_integration.description=Добавляет интеграцию с Discord, включающую в себя оверлей и другие функции
+
+daunted_client.mod.discord_integration.option.voiceChatHud=Интерфейс голосового чата
+daunted_client.mod.discord_integration.option.voiceChatHudScale=Размер интерфейса голосового чата
+daunted_client.mod.discord_integration.option.voiceChatHudAlignment=Выравнивание интерфейса голосового чата
+daunted_client.mod.discord_integration.option.usernameColour=Цвет имени пользователя
+daunted_client.mod.discord_integration.option.mutedColour=Цвет имени заглушенного пользователя
+daunted_client.mod.discord_integration.option.speakingColour=Цвет имени говорящего пользователя
+
+daunted_client.mod.screen.title=Модули
+daunted_client.mod.screen.search=Начните печатать...
+daunted_client.mod.screen.apply_to_all=Применить конфигурацию
+
+daunted_client.hud.edit=Редактировать интерфейс
+
+daunted_client.packs.apply=Применить
+daunted_client.packs.open_folder=Папка пакетов
+daunted_client.packs.folder=Папка (%d элементов)
+
+daunted_client.screenshot.view=Посмотреть
+daunted_client.screenshot.open_folder=Показать в папке

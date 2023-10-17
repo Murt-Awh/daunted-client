@@ -1,0 +1,10 @@
+[Desktop Entry]
+
+Name=Daunted Client
+Comment=Daunt came to haunt.
+GenericName=Daunted Client
+Exec=daunted-client %U
+Icon=daunted-client.png
+Type=Application
+StartupNotify=true
+Categories=Game;

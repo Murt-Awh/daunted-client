@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="drag-region invisible"></div>
+  <div class="login invisible">
+    <button class="button back-button invisible back-to-main-button">◀</button>
+    <h1 class="title">Log In</h1>
+    <div class="login-box">
+      <button class="button login-button microsoft-login-button">Log in with Microsoft</button>
+      <button class="button login-button mojang-login-button">Log in with Mojang</button>
+    </div>
+  </div>
+  <div class="mojang-login invisible">
+    <button class="button back-button back-to-login-button">◀</button>
+    <h1 class="title">Mojang Account Login</h1>
+    <div class="login-box">
+      <label for="username" class="label">Username</label>
+      <input id="username" class="input" type="text" spellcheck="false" autocomplete="off" />
+      <span class="error-message"></span>
+      <button class="button play-button login-button-mojang">Log In</button>
+    </div>
+  </div>
+  <div class="main invisible">
+    <img src="assets/daunted_client_logo_with_text.svg" class="launcher-title" height="64" />
+    <button class="button account-button">My Account</button>
+    <div class="accounts invisible"></div>
+    <div class="tabs">
+      <button class="tab about-tab selected-tab">Home</button>
+      <button class="tab settings-tab">Settings</button>
+    </div>
+    <div class="about">
+      <div class="about-text">
+        <p>The client for Daunt.</p>
+        <a class="open-in-browser" href="https://discord.gg/JKEXS2Cx">Discord Server</a>
+      </div>
+      <div class="quick-join-box">
+        <h3 class="centred-text quick-join-text">Play Server</h3>
+        <div class="quick-servers centred">No Added Servers</div>
+      </div>
+    </div>
+    <div class="settings invisible">
+      <div class="setting-option">
+        <input type="checkbox" class="optifine" id="optifine" />
+        <label for="optifine" class="spaced-5">Install OptiFine</label>
+      </div>
+      <div class="memory-box">
+        <p>Memory</p>
+        <input type="range" class="memory" />
+        <p class="memory-label"></p>
+      </div>
+      <div class="minecraft-folder-section">
+        <span class="centred">Minecraft Folder</span>
+        <span class="centred spaced-15 minecraft-folder-path"></span>
+        <button class="centred button button-generic minecraft-folder spaced-15">Change</button>
+      </div>
+      <h2 class="centred">Advanced</h2>
+      <div class="jre-location-section">
+        <span class="centred">JRE Location</span>
+        <span class="centred spaced-15 jre-location"></span>
+        <button class="button button-generic jre-location-change">Change</button>
+        <button class="button button-generic jre-location-reset spaced-15">Reset</button>
+      </div>
+      <p class="centred">JVM Arguments</p>
+      <input type="text" class="centred input jvm-arguments" placeholder="No additional arguments" />
+      <div class="centred">
+        <button class="button button-generic devtools">Open DevTools</button>
+      </div>
+    </div>
+    <div class="button-box">
+      <button class="button play-button" id="launch-button">Play</button>
+    </div>
+    <p class="invisible" id="launch-note"></p>
+  </div>
+</body>
+</html>

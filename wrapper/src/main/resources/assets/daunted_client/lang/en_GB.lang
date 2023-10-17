@@ -1,0 +1,75 @@
+daunted_client.vertical_alignment.middle=Centre
+
+daunted_client.mod.simple_hud.option.backgroundColour=Background colour
+daunted_client.mod.simple_hud.option.borderColour=Border colour
+daunted_client.mod.simple_hud.option.textColour=Text colour
+
+daunted_client.mod.daunted_client.option.uiColour=Accent colour
+
+daunted_client.mod.coordinates.option.axisLabelColour=Axis label colour
+daunted_client.mod.coordinates.option.axisValueColour=Axis value colour
+daunted_client.mod.coordinates.option.cardinalDirectionColour=Cardinal direction colour
+daunted_client.mod.coordinates.option.axisDirectionColour=Axis direction colour
+
+daunted_client.mod.keystrokes.option.backgroundColourPressed=Background colour (when held)
+daunted_client.mod.keystrokes.option.borderColourPressed=Border colour (when held)
+daunted_client.mod.keystrokes.option.textColourPressed=Text colour (when held)
+daunted_client.mod.keystrokes.option.smoothColours=Animated colours
+
+daunted_client.mod.cps.option.separatorColour=Separator colour
+
+daunted_client.mod.potion_effects.option.titleColour=Label colour
+daunted_client.mod.potion_effects.option.durationColour=Duration colour
+
+daunted_client.mod.armour.description=Display your armour and equipment with durability.
+daunted_client.mod.armour.option.armour=Show armour
+
+daunted_client.mod.timers.option.nameColour=Label colour
+daunted_client.mod.timers.option.timeColour=Time colour
+
+daunted_client.mod.chat.description=Customise ingame chat.
+daunted_client.mod.chat.option.defaultTextColour=Default text colour
+daunted_client.mod.chat.option.colours=Colours
+
+daunted_client.mod.tab_list.description=Customise the tab/player list.
+
+daunted_client.mod.clock.option.analogue=Analogue
+daunted_client.mod.clock.option.hourHandColour=Hour hand colour
+daunted_client.mod.clock.option.hourMarksColour=Hour mark colour
+daunted_client.mod.clock.option.minuteHandColour=Minute hand colour
+daunted_client.mod.clock.option.secondsHandColour=Second hand colour
+
+daunted_client.mod.crosshair.description=Customise the crosshair.
+daunted_client.mod.crosshair.option.crosshairColour=Colour
+daunted_client.mod.crosshair.option.entityColour=Entity colour
+
+daunted_client.mod.scoreboard.description=Customise the scoreboard.
+daunted_client.mod.scoreboard.option.numbersColour=Number colour
+
+daunted_client.mod.boss_bar.description=Customise the boss bar.
+
+daunted_client.mod.tweaks.option.centredInventory=Centre the inventory with potions
+
+daunted_client.mod.replay.option.recordingIndicatorColour=Recording indicator colour
+daunted_client.mod.replay.option.recordingIndicatorTextColour=Recording indicator text colour
+
+daunted_client.mod.menu_blur.option.backgroundColour=Background colour
+
+daunted_client.mod.colour_saturation.name=Colour Saturation
+daunted_client.mod.colour_saturation.description=Adjust the colour saturation of the world.
+
+daunted_client.mod.1.7_visuals.option.armourDamage=Damage effect on armour
+
+daunted_client.mod.block_selection.description=Customise the block selection.
+daunted_client.mod.block_selection.option.outlineColour=Outline colour
+daunted_client.mod.block_selection.option.fillColour=Fill colour
+
+daunted_client.mod.hit_colour.name=Hit Colour
+daunted_client.mod.hit_colour.description=Change the hit colour.
+daunted_client.mod.hit_colour.option.colour=Colour
+
+daunted_client.mod.hitbox.description=Customise and easily toggle entity hitbox displays.
+
+daunted_client.mod.hitbox.option.boundingBoxColour=Bounding box colour
+daunted_client.mod.hitbox.option.eyeHeightColour=Eye height colour
+daunted_client.mod.hitbox.option.lookVectorColour=Look vector colour
