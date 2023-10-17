@@ -56,6 +56,7 @@ public class HitboxMod extends DauntedClientMod {
 
 	@Override
 	public void lateInit() {
+		this.block();
 		super.lateInit();
 		if (isEnabled())
 			mc.getEntityRenderManager().setRenderHitboxes(toggled);

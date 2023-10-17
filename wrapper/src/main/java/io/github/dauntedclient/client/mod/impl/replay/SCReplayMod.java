@@ -15,6 +15,7 @@ import io.github.dauntedclient.client.Client;
 import io.github.dauntedclient.client.event.EventHandler;
 import io.github.dauntedclient.client.event.impl.*;
 import io.github.dauntedclient.client.mod.*;
+import io.github.dauntedclient.client.mod.Mod;
 import io.github.dauntedclient.client.mod.hud.*;
 import io.github.dauntedclient.client.mod.impl.DauntedClientMod;
 import io.github.dauntedclient.client.mod.impl.replay.fix.SCReplayModBackend;
@@ -25,7 +26,8 @@ import net.minecraft.client.resource.language.I18n;
 import net.minecraft.client.world.ClientWorld;
 
 /**
- * Daunted Client representation of Replay Mod. This allows it to appear in the mod
+ * Daunted Client representation of Replay Mod. This allows it to appear in the
+ * mod
  * list.
  *
  * Originally by CrushedPixel and johni0702.
@@ -36,71 +38,34 @@ public class SCReplayMod extends DauntedClientMod {
 	public static Boolean deferedState;
 	public static SCReplayMod instance;
 
-	@Expose
-	@Option
 	public boolean enableNotifications = true;
 
-	@Expose
-	@Option
 	public boolean recordSingleplayer = true;
-	@Expose
-	@Option
 	public boolean recordServer = true;
 
-	@Expose
-	@Option
 	public boolean recordingIndicator = true;
-	@Expose
-	@Option
 	public Colour recordingIndicatorColour = Colour.BLACK;
-	@Expose
-	@Option
-	@Slider(min = 50, max = 150, step = 1, format = "daunted_client.slider.percent")
 	protected float recordingIndicatorScale = 100;
-	@Expose
-	@Option
 	protected Colour recordingIndicatorTextColour = Colour.WHITE;
-	@Expose
-	@Option
 	protected boolean recordingIndicatorTextShadow = true;
-	@Expose
 	protected Position recordingIndicatorPosition;
 	private RecordingIndicator recordingIndicatorHud = new RecordingIndicator(this);
 
-	@Expose
-	@Option
 	public boolean automaticRecording = true;
 
-	@Expose
-	@Option
 	public boolean renameDialog = true;
-	@Expose
-	@Option
 	public boolean showChat = true;
 
-	@Expose
-	@Option
 	public SCCameraType camera = SCCameraType.CLASSIC;
-	@Expose
-	@Option
 	public boolean showPathPreview = true;
-	@Expose
-	@Option
 	public SCInterpolatorType defaultInterpolator = SCInterpolatorType.CATMULL;
-	@Expose
-	@Option
 	public boolean showServerIPs = true;
 
-	@Expose
 	public boolean automaticPostProcessing = true;
-	@Expose
 	public boolean autoSync = true;
-	@Expose
 	public int timelineLength = 1800;
-	@Expose
 	public boolean frameTimeFromWorldTime;
 
-	@Expose
 	public boolean skipPostRenderGui;
 	public boolean skipPostScreenshotGui;
 
@@ -116,7 +81,7 @@ public class SCReplayMod extends DauntedClientMod {
 
 	@Override
 	public String getDetail() {
-		return I18n.translate("daunted_client.mod.screen.modified_from", "CrushedPixel, johni0702");
+		return I18n.translate("daunted_client.mod.screen.modified_from", "iflyyt, notlolo");
 	}
 
 	@Override
@@ -133,6 +98,7 @@ public class SCReplayMod extends DauntedClientMod {
 
 		Client.INSTANCE.getEvents().register(new ConstantListener());
 
+		this.block();
 		super.init();
 	}
 
