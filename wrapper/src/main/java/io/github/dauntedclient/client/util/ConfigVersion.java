@@ -31,7 +31,6 @@ public enum ConfigVersion {
 			// Shuffle the names around.
 			newObject.add("coordinates", newObject.remove("position"));
 			newObject.add("potion_effects", newObject.remove("statuseffects"));
-			newObject.add("speedometer", newObject.remove("speed"));
 			newObject.add("chunk_animator", newObject.remove("chunk_animation"));
 			newObject.add("freelook", newObject.remove("perspective"));
 			newObject.add("fullbright", newObject.remove("nightVision"));

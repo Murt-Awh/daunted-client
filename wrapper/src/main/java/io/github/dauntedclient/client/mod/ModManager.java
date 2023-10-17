@@ -26,7 +26,6 @@ import io.github.dauntedclient.client.mod.impl.hud.chat.ChatMod;
 import io.github.dauntedclient.client.mod.impl.hud.crosshair.CrosshairMod;
 import io.github.dauntedclient.client.mod.impl.hud.keystrokes.KeystrokesMod;
 import io.github.dauntedclient.client.mod.impl.hud.ping.PingMod;
-import io.github.dauntedclient.client.mod.impl.hud.speedometer.SpeedometerMod;
 import io.github.dauntedclient.client.mod.impl.hud.tablist.TabListMod;
 import io.github.dauntedclient.client.mod.impl.hud.timers.TimersMod;
 import io.github.dauntedclient.client.mod.impl.hypixeladditions.HypixelAdditionsMod;
@@ -67,7 +66,6 @@ public final class ModManager implements Iterable<Mod> {
 				new KeystrokesMod(),
 				new CpsMod(),
 				new PingMod(),
-				new SpeedometerMod(),
 				new ReachDisplayMod(),
 				new ComboCounterMod(),
 				new ClockMod(),
