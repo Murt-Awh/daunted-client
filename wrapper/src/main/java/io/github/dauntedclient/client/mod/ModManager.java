@@ -81,7 +81,6 @@ public final class ModManager implements Iterable<Mod> {
 				// utility
 				new SCReplayMod(),
 				new FreelookMod(),
-				new TaplookMod(),
 				new ToggleSprintMod(),
 				new TNTTimerMod(),
 				new ZoomMod(),
