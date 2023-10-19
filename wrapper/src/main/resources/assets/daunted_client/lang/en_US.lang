@@ -469,6 +469,7 @@ daunted_client.mod.discord_integration.option.mutedColour=Muted colour
 daunted_client.mod.discord_integration.option.speakingColour=Speaking colour
 
 daunted_client.mod.discord_integration.multiplayer=Multiplayer: %s
+daunted_client.mod.discord_integration.main_menu=Main Menu
 
 daunted_client.mod.cosmetica.name=Cosmetica
 daunted_client.mod.cosmetica.description=Support for cosmetics with Cosmetica's API.
