@@ -140,8 +140,7 @@ public class SCSettingsRegistry {
 			case "advanced":
 				switch (key.getKey()) {
 					case "askForOpenEye":
-						return (T) Boolean.FALSE; // Sorry, ReplayMod devs, but you would receive crashes from Sol
-													// Client.
+						return (T) Boolean.FALSE;
 					case "cachePath":
 						return (T) "./.replay_cache/";
 					case "fullBrightness":

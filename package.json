@@ -33,7 +33,7 @@
     "@electron-forge/maker-squirrel": "^6.0.0-beta.61",
     "@electron-forge/maker-zip": "^6.0.0-beta.61",
     "electron": "^18.0.1",
-    "electron-forge-maker-appimage": "github:Sol-Client/electron-forge-maker-appimage"
+    "electron-forge-maker-appimage": "github:saleae/electron-forge-maker-appimage"
   },
   "config": {
     "forge": {
