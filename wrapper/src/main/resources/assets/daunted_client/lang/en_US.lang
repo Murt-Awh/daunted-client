@@ -293,8 +293,8 @@ daunted_client.mod.zoom.option.smooth=Zoom animation
 daunted_client.mod.zoom.option.animationSpeed=Animation speed
 daunted_client.mod.zoom.option.factor=Zoom factor
 
-daunted_client.mod.replay.name=Sniping
-daunted_client.mod.replay.description=Smoke the opps.
+daunted_client.mod.replay.name=Replay
+daunted_client.mod.replay.description=Record your gameplay.
 
 daunted_client.mod.replay.option.enableNotifications=Enable notifications
 daunted_client.mod.replay.option.recordSingleplayer=Record singleplayer

@@ -98,7 +98,6 @@ public class SCReplayMod extends DauntedClientMod {
 
 		Client.INSTANCE.getEvents().register(new ConstantListener());
 
-		this.block();
 		super.init();
 	}
 
