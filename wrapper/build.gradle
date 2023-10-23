@@ -118,16 +118,8 @@ java {
 	}
 }
 
-//license {
-//	rule file("../HEADER")
-//	include '**/*.java'
-//}
-
 shadowJar {
 	finalizedBy remapJar
-	from('../LICENSE') {
-		rename { "${it}_${name}" }
-	}
 	configurations = [project.configurations.ship]
 	classifier 'dev'
 	destinationDirectory.set file("$buildDir/devlibs")
