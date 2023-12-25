@@ -2,18 +2,12 @@
 
 The client for Daunt, custom-made for Jartex and Daunted.
 
+update: not all of the code here is mine, however it's been quite a while since i worked on this and i don't remember the original authors, so please let me know if you read the code and you find references to the original author so i can credit them here.
+
 ## Authors
 
 - [@fwanchan](https://www.github.com/Murt-Awh)
 - [@drifter16](https://www.github.com/driftar16)
-
-## Installation
-
-Ask for the client installer in Discord, although currently only beta testers are allowed to use it. Soon it'll be open to clan members with a token that expires at each end season.
-
-## Documentation
-
-All the documentation is in the notion page.
 
 ## Screenshots
 
