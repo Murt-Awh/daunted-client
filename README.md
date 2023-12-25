@@ -6,7 +6,7 @@ update: not all of the code here is mine, however it's been quite a while since 
 
 ## Authors
 
-- [@fwanchan](https://www.github.com/Murt-Awh)
+- [@fwanchan](https://www.github.com/muuuuurt)
 - [@drifter16](https://www.github.com/driftar16)
 
 ## Screenshots
