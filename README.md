@@ -8,4 +8,4 @@
 
 ![Edit Hud Menu](https://i.imgur.com/WPj2fZx.png)
 
-![Gameplay](https://youtu.be/j3YrR6guaKw)
+[Gameplay Video](https://youtu.be/j3YrR6guaKw)
